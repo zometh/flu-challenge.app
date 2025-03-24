@@ -30,7 +30,7 @@ Tu dois développer **un seul écran Flutter** affichant les informations suivan
 
 1. **Forke ce repo** et clone-le en local  
    ```sh
-   git clone https://github.com/ton-github/flutter-challenge.git
+   git clone https://github.com/{ton-login-github-ici}/flutter-challenge.git
    cd flutter-challenge
 2. **Créer une branche avec ton nom**
    ```sh
