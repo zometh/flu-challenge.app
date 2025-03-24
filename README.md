@@ -36,7 +36,7 @@ Tu dois développer **un seul écran Flutter** affichant les informations suivan
    ```sh
    git checkout -b prenom-nom
 3. **Développe l’écran en suivant le design et les fonctionnalités demandées**
-4. **Fais des commits réguliers pour montrer ton évolution**
+4. [**Fais des commits réguliers pour montrer ton évolution**](https://github.com/PULSENIA/flu-challenge.app/blob/main/conv.md)
 5. **Push ton code sur ton fork**
 6. **Soumets une Pull Request (PR) vers ce repo pour évaluation**
 
