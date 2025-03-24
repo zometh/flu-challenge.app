@@ -21,7 +21,8 @@ Tu dois développer **un seul écran Flutter** affichant les informations suivan
 ⚠️ **Ton code doit respecter ces principes :**  
 - **Fidélité au design Figma** 🎨  
 - **Utilisation des bons widgets Flutter** (Row, Column, Stack…)  
-- **Gestion correcte de l’état (StatefulWidget ou autre approche pertinente)**  
+- **Gestion correcte de l’état (StatefulWidget ou autre approche pertinente)**
+- **Respecter les bonnes pratiques du [Material 3 Design de Google](https://m3.material.io/)** 🎭
 
 ---
 
