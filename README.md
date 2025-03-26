@@ -16,7 +16,7 @@ Tu dois développer **un seul écran Flutter** affichant les informations suivan
 ✅ **Taille du produit** 📏  
 ✅ **Bouton "Ajouter au panier"** 🛒  
 
-👉 **Lien du design Figma** : [🔗 Accéder au prototype](https://www.figma.com/ton-lien)  
+👉 **Lien du design Figma** : [🔗 Accéder au prototype](https://www.figma.com/design/GCmZuGw6SvyIS5T52uiG3y/flu-challenge.app?node-id=0-1&t=XHzSIr00JRQZYEIN-1)  
 
 ⚠️ **Ton code doit respecter ces principes :**  
 - **Fidélité au design Figma** 🎨  
