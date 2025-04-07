@@ -21,9 +21,10 @@ class ProductImagesView extends StatelessWidget {
               carouselController: controller.sliderController.value,
               options: CarouselOptions(
                 height: 311.0.h,
-                onPageChanged: (index, reason) => controller.upadeImageIndex(index),
+                onPageChanged:
+                    (index, reason) => controller.upadeImageIndex(index),
               ),
-            
+
               items:
                   images.map((i) {
                     return Builder(
@@ -38,7 +39,8 @@ class ProductImagesView extends StatelessWidget {
                     );
                   }).toList(),
             ),
-_imageIndicator()
+            Center(child: SizedBox(height: 39.h, child: _imageIndicator())),
+            
           ],
         );
       },
@@ -64,7 +66,10 @@ _imageIndicator()
             height: 10.w,
             decoration: BoxDecoration(
               shape: BoxShape.circle,
-              color: index == controller.currentImage.value ? kDarkColor : Colors.grey.shade400,
+              color:
+                  index == controller.currentImage.value
+                      ? kDarkColor
+                      : Colors.grey.shade400,
             ),
           ),
         ),
