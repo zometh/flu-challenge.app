@@ -25,11 +25,7 @@ class MyApp extends StatelessWidget {
         title: 'Ecom',
         defaultTransition: Transition.cupertino,
         theme: ThemeData(
-          elevatedButtonTheme: ElevatedButtonThemeData(
-            style: ButtonStyle(
-              
-            )
-          )
+          
         ),
         home: const ProductViewPage(),
       ),
