@@ -1,0 +1,9 @@
+const String kImageAssets = "lib/assets/images/";
+const String kPrefixProduct = "headphone";
+const kProductImage1 = "$kImageAssets${kPrefixProduct}1.png";
+const kProductImage2 = "$kImageAssets${kPrefixProduct}2.png";
+const kProductImage3 = "$kImageAssets${kPrefixProduct}3.png";
+const kArrowImage = "${kImageAssets}arrow.png";
+const kBagImage = "${kImageAssets}bag.png";
+const kHeartImage = "${kImageAssets}heart.png";
+const kHeartFillImage = "${kImageAssets}heart_filled.png";
