@@ -11,19 +11,16 @@ import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:get/get_state_manager/src/simple/get_state.dart';
 
-class ProductViewPage extends StatefulWidget {
+class ProductViewPage extends StatelessWidget {
   const ProductViewPage({super.key});
 
-  @override
-  State<ProductViewPage> createState() => _ProductViewPageState();
-}
-
-class _ProductViewPageState extends State<ProductViewPage> {
-  List<String> images = [kProductImage1, kProductImage2, kProductImage3];
-  List<String> colors = ["Bleu", "Vert", "Rose"];
+ 
 
   @override
   Widget build(BuildContext context) {
+     List<String> images = [kProductImage1, kProductImage2, kProductImage3];
+
+  List<String> colors = ["Bleu", "Vert", "Rose"];
     return Scaffold(
       backgroundColor: Colors.white,
       appBar: AppBar(
